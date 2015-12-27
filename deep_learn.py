@@ -1,7 +1,7 @@
 #################################################
 ###         Deep Learning on movies reviews   ###
 ###         Name : Hbib Barket                ###
-###         mail : nachi.med.ali@gmail.com    ###
+###         mail :hbib.barket1991@gmail.com    ###
 ###                                           ###
 #################################################
 
